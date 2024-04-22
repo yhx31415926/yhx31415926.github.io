@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "端一碗水 出门去捉一碗月亮 <br> React Team @ Meta"
+sidebar-about-description: "端一碗水 出门去捉一碗月亮"
 sidebar-avatar: https://yhx1415926.github.io/img/avatar-hux-home.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
