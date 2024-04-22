@@ -19,7 +19,7 @@ header-style: text
 $$
 \log{(1+x)}=\sum_{n\ge1}\frac{x^{n}}{n} =x-\frac{x^{2}}{2}+\frac{x^{3}}{3}-\frac{x^{4}}{4}+\frac{x^{5}}{5}-\frac{x^{6}}{6}+\cdots\qquad\forall\ x\ge-1 
 $$  
-
+  
 <font color=red>我是红色</font>
 <font color=yellow>我是黄色</font>
 <font color=Blue>我是蓝色</font>
@@ -36,6 +36,7 @@ $$
 `printf("Hello World")`  
 
 $ \theta=x^2 $  
+
 H~2~O  
 cm^3^  
 <u>下划线</u>  
@@ -101,4 +102,5 @@ https://www.github.com
 
 图片:
 ![](https://yhx1415926.github.io/img/404-bg.jpg)
+<center><font color= gray>我是灰色解释</font></center>
 
