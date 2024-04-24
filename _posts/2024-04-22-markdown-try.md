@@ -21,6 +21,16 @@ $
 $<br>
 
 $$
+\log{(1+x)}=\sum_{n=1}^{\infty} \frac{x^{n}}{n} =x-\frac{x^{2}}{2}+\frac{x^{3}}{3}-\frac{x^{4}}{4}+\frac{x^{5}}{5}-\frac{x^{6}}{6}+\cdots\qquad\forall\ x\ge-1 
+$$<br>
+
+$$
+\begin{align}
+  \log{(1+x)}=\sum_{n=1}^{\infty} \frac{x^{n}}{n} =x-\frac{x^{2}}{2}+\frac{x^{3}}{3}-\frac{x^{4}}{4}+\frac{x^{5}}{5}-\frac{x^{6}}{6}+\cdots\qquad\forall\ x\ge-1 
+\end{align}
+$$<br>
+
+$$
 \begin{align}
   \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &= \frac{4\pi}{c}\vec{\mathbf{j}} \\
   \nabla\cdot\vec{\mathbf{E}} &= 4\pi\rho \\
