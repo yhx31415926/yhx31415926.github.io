@@ -18,27 +18,28 @@ header-style: text
 
 $$
 \log{(1+x)}=\sum_{n\ge1}\frac{x^{n}}{n} =x-\frac{x^{2}}{2}+\frac{x^{3}}{3}-\frac{x^{4}}{4}+\frac{x^{5}}{5}-\frac{x^{6}}{6}+\cdots\qquad\forall\ x\ge-1 
-$$  
-  
+$$<br>
+
 <font color=red>我是红色</font>
 <font color=yellow>我是黄色</font>
 <font color=Blue>我是蓝色</font>
 <font color= gray>我是灰色</font>
 
-<font size=0.5>我是尺寸0.5</font>
 <font size=1>我是尺寸1</font>
 <font size=2>我是尺寸2</font>
 <font size=5>我是尺寸5</font>
 <font size=10>我是尺寸10</font>  
 
-*斜体*
-**加粗**
+*斜体*<br>
+**加粗**<br>
 `printf("Hello World")`  
 
 $ \theta=x^2 $  
 
-H~2~O  
-cm^3^  
+H~2~O<br>
+
+cm^3^<br>
+
 <u>下划线</u>  
 <del>划去</del>  
 
@@ -67,34 +68,32 @@ int main(){
 ```
 
 mathematical formula:  
-$$
-\frac{\partial f}{\partial x} = 2\sqrt{a}x
-$$  
+$\frac{\partial f}{\partial x} = 2\sqrt{a}x$  
 
 line:
 
 ---
 
 
-表格：
+表格：<br>
 |name|age|score|
 |:---|---:|:---:|
 |Y|10|0|
-|H|11|7|
-|X|9|45|
+|H|11|7|  
+|X|9|45|  
 
 注释:
 YHX[^z]
 
 [^z]:任意注释
 
-链接：
-[bing](https://www.bing.com "一个搜索引擎")  
-[baidu][ads]  
+链接：<br>
+[bing](https://www.bing.com "一个搜索引擎")<br>
+[baidu][ads]<br>
 
 [ads]:https://www.baidu.com "两个搜索引擎"
 
-跳转：
+跳转：<br>
 请参考[此处](#标题3)  
 
 URL:  
