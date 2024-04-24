@@ -24,6 +24,18 @@ $r\in Z,0\le r\le n$;$\begin{pmatrix} n\\i\end{pmatrix}=\frac{n!}{i!(n-i)!}$
 (2)利用(1),试证明$\sum_{i=0}^{n}{\begin{pmatrix} n\\i\end{pmatrix}(q-1)^{i}}=q^{n}$ (其他证法不给分)
 (3)^
 
-三、
+三、<br>
+<p>\begin{align}
+  \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &amp;= \frac{4\pi}{c}\vec{\mathbf{j}} \\
+  \nabla\cdot\vec{\mathbf{E}} &amp;= 4\pi\rho \\
+  \nabla\times\vec{\mathbf{E}}+\frac{1}{c}\frac{\partial\vec{\mathbf{B}}}{\partial t} &amp;= \vec{\mathbf{0}} \\
+  \nabla\cdot\vec{\mathbf{B}} &amp;= 0
+\end{align}</p><br>
+<p>$$
+  \nabla\times\vec{\mathbf{B}}-\frac{1}{c}\frac{\partial\vec{\mathbf{E}}}{\partial t} &amp;= \frac{4\pi}{c}\vec{\mathbf{j}} \\
+  \nabla\cdot\vec{\mathbf{E}} &amp;= 4\pi\rho \\
+  \nabla\times\vec{\mathbf{E}}+\frac{1}{c}\frac{\partial\vec{\mathbf{B}}}{\partial t} &amp;= \vec{\mathbf{0}} \\
+  \nabla\cdot\vec{\mathbf{B}} &amp;= 0
+$$</p><br>
 四、
 五、
