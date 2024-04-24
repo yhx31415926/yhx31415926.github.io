@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024中科大少创班复试"
-subtitle: "数学试题"
+subtitle: "数学试题（非官方版）"
 author: "yhx1415926"
 header-style: text
 mathjax: true
@@ -25,15 +25,15 @@ tags:
   \end{align}</p>
 
 二、<br>
-<p>$A=\{1,2,...,q\} $</p>;在$X=A^{n}$上定义Hamming距离<p>$d(x,y)=\#\{1\le i\le n|x_{i}\ne y_{i}\} $</p>
+<p>$A=\{1,2,...,q\} $</p>;在$X=A^{n}$上定义Hamming距离 <p> $d(x,y)=\#\{1\le i\le n|x_{i}\ne y_{i}\} $ </p>
 $x\in X;r\in Z,0\le r\le n$<br>
 (1)求证：以$x$为球心，$r$为半径的闭球内含$X$的元素个数为<br>
 <p>\begin{align}
-  \sum_{i=0}^{r}{\begin{pmatrix} n\\i\end{pmatrix}(q-1)^{i}}
+  \sum_{i=0}^{r}\binom{n}{i} (q-1)^{i}
   \end{align}</p>
 (2)利用(1),试证明:   (其他证法不给分)
 <p>\begin{align}
-  \sum_{i=0}^{n}{\begin{pmatrix} n\\i\end{pmatrix}(q-1)^{i}}=q^{n}
+  \sum_{i=0}^{n}\binom{n}{i} (q-1)^{i}=q^{n}
   \end{align}</p>
 (3)^
 
