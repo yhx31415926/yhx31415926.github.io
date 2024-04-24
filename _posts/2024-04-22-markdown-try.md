@@ -17,7 +17,7 @@ header-style: text
 >引用  
 
 $
-\log{(1+x)}=\sum_{n\ge1}\frac{x^{n}}{n} =x-\frac{x^{2}}{2}+\frac{x^{3}}{3}-\frac{x^{4}}{4}+\frac{x^{5}}{5}-\frac{x^{6}}{6}+\cdots\qquad\forall\ x\ge-1 
+\log{(1+x)}=\sum_{n\ge1}^{} \frac{x^{n}}{n} =x-\frac{x^{2}}{2}+\frac{x^{3}}{3}-\frac{x^{4}}{4}+\frac{x^{5}}{5}-\frac{x^{6}}{6}+\cdots\qquad\forall\ x\ge-1 
 $<br>
 
 <font color=red>我是红色</font>
