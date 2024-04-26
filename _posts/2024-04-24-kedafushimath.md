@@ -17,13 +17,13 @@ tags:
 2.$ Q_{p}$
   <p>\begin{align}d_{p}(x,y)=|x-y|_{p}=p^{-v_{p}(|x-y|)}\end{align}</p>
 3.$ A^{n}$
-  <p>\begin{align}d_{H}(x,y)=\#\{1\le i\le n|x_{i}\ne y_{i}\} \end{align}</p>
+  <p>\begin{align}d_{H}(x,y)=\#\{1\le i\le n\ |\ x_{i}\ne y_{i}\} \end{align}</p>
 
 ----
 共五大题，每题20分。（注意：**题目难度与次序无关**）
 
 ### 一、<br>
-(1)求证:在 $R^{n}$ 上, $d_{2}$ 构成距离函数.  
+(1)求证:在 $R^{n}$ 上，$d_{2}$ 构成距离函数.  
 (2)求证:在 $R^{n}$ 上，$d_{1},d_{2},d_{\infty}$ 互为等价距离.  
 
 ### 二、<br>
@@ -35,18 +35,19 @@ tags:
 (2)依据上一问的结论,试证明:(其他证法不给分)
 <p>\begin{align}
   \sum_{i=0}^{n}\binom{n}{i} (q-1)^{i}=q^{n}
-  \end{align}</p>
+  \end{align}</p><br>
+(3)复杂ing...
 
-<h3 id="三">三、<br /></h3>
+### 三、<br>
 (1)求证：单点集$\{x\}$是闭集.<br>
 (2)求证：开集的任意并仍为开集.<br>
 (3)求证：开集的有限交仍为开集.<br>
-(4)在$(Q,d_{p})$下，其中 $d_{p}$为 $p-adic$ 度量.求证：$Z$为非闭集.<br>
+(4)在$(Q,d_{p})$下，其中 $d_{p}$为 $p-adic$ 度量.求证:$Z$为非闭集.
 
 ### 四、<br>
 (1)请写出 $Cauchy$ 列的定义.<br>
 (2)对于在 $R$ 上的距离，若$\{x_{n}\}$为 $Cauchy$ 列，$\{y_{n}\}$为 $Cauchy$ 列.求证：$\{x_{n}y_{n}\}$也为 $Cauchy$ 列.<br>
-(3)求证：在 $Hamming$ 距离下任意 $Cauchy$ 列，$\exists N,s.t.\ \forall n>N,a_{n}=a_{N}$.<br>
+(3)求证：在 $Hamming$ 距离下任意 $Cauchy$ 列，$\exists N,s.t.\ \forall n>N,a_{n}=a_{N}$.
 
 ### 五、<br>
 在$(Q,d_{p})$下，<br>
