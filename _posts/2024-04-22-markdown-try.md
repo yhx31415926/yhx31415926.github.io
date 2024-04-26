@@ -2,6 +2,7 @@
 layout: post
 title: "Markdown try"
 author: "yhx1415926"
+hidden: true
 mathjax: true
 header-style: text
 ---
