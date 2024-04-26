@@ -36,20 +36,20 @@ tags:
 <p>\begin{align}
   \sum_{i=0}^{n}\binom{n}{i} (q-1)^{i}=q^{n}
   \end{align}</p><br>
-(3)复杂ing...
+(3)复杂ing...<br>
 
 ### 三、<br>
 (1)求证：单点集$\{x\}$是闭集.<br>
 (2)求证：开集的任意并仍为开集.<br>
 (3)求证：开集的有限交仍为开集.<br>
-(4)在$(Q,d_{p})$下，其中 $d_{p}$为 $p-adic$ 度量.求证:$Z$为非闭集.
+(4)在$(Q,d_{p})$下，其中 $d_{p}$为 $p-adic$ 度量.求证:$Z$为非闭集.<br>
 
-### 四、<br>
+<h3 id="四">四、<br /></h3>
 (1)请写出 $Cauchy$ 列的定义.<br>
 (2)对于在 $R$ 上的距离，若$\{x_{n}\}$为 $Cauchy$ 列，$\{y_{n}\}$为 $Cauchy$ 列.求证：$\{x_{n}y_{n}\}$也为 $Cauchy$ 列.<br>
-(3)求证：在 $Hamming$ 距离下任意 $Cauchy$ 列，$\exists N,s.t.\ \forall n>N,a_{n}=a_{N}$.
+(3)求证：在 $Hamming$ 距离下任意 $Cauchy$ 列，$\exists N,s.t.\ \forall n>N,a_{n}=a_{N}$.<br>
 
-### 五、<br>
+<h3 id="五">五、<br /></h3>
 在$(Q,d_{p})$下，<br>
 (1)求证：$p$ 过所有素数，$d_{p}$ 互不等价.<br>
 (2)求证：
