@@ -36,7 +36,6 @@ tags:
 <p>\begin{align}
   \sum_{i=0}^{n}\binom{n}{i} (q-1)^{i}=q^{n}
   \end{align}</p>
-(3)
 
 ### 三、<br>
 (1)求证：单点集$\{x\}$是闭集.<br>
