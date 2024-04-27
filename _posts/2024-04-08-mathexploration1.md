@@ -13,6 +13,13 @@ tags:
 ### The 53rd Putnam Mathematical Competition A-6
 Four points are chosen at random on the surface of a sphere. What is the probability that the center of the sphere lies inside the tetrahedron whose vertices are at the four points? (It is understood that each point is independently chosen relative to a uniform distribution on the sphere.)  
 
-3Blue1Brown<font face="楷体">讲解 </font>**key:**<br>
-<center><font face="楷体">将随机取点 看作 取直径后取一端点</font></center><br>
-&emsp;<font face="楷体">考虑二维简化情况：</font>
+3Blue1Brown讲解 **key:**<br>
+<center><b>将随机取点 看作 随机取直径后取一端点</b></center><br>
+&emsp;考虑二维简化情况：
+![](https://yhx1415926.github.io/quote_img/mathexploration-1/1.png)
+&emsp;&emsp;$P_{1}$任意，任何直径取法<br>
+&emsp;&emsp;&emsp;4种组合:$\{P_{21},P_{31}\}{P_{21},P_{32}\}{P_{22},P_{31}\}{P_{22},P_{32}\}$<br>
+&emsp;&emsp;&emsp;都只有一种可行&emsp;&emsp;故为$\frac{1}{4}$<br>
+&emsp;&emsp;<b>[</b>可用线性代数规范表述，$O \in \triangle P_{1}P_{2}P_{3}$ <br>
+&emsp;&emsp;$\Longleftrightarrow\ \alpha_{1}P_{1}+\alpha_{1}P_{1}+\alpha_{1}P_{1}=O,\ \alpha_{1}+\alpha_{1}+\alpha_{1}=1,\ \alpha _{i}\ge 0$<b>]</b><br>
+&emsp;则三维情况完全类似，得$\frac{1}{8}$ <p align="right">$\Box$</p><br>
