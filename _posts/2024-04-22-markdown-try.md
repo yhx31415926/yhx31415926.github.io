@@ -28,6 +28,8 @@ $<br>
   \nabla\cdot\vec{\mathbf{B}} &amp;= 0
 \end{align}<br /></p>
 
+<font color="gray" size=3 face="楷体">灰色尺寸三楷体</font>
+
 <font color=red>我是红色</font>
 <font color=yellow>我是黄色</font>
 <font color=Blue>我是蓝色</font>
