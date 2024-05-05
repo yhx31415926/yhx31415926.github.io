@@ -9,10 +9,10 @@ tags:
   - Mathematical Exploration
 ---
 
-$N_{+}$ 可以划分成两个集合:
-$f(N_{+})=\{f(n)|n\in N_{+}\}$ and $g(N_{+})=\{g(n)|n\in N_{+}\}$;
-且 $f(n)$ 严格单增, $g(n)=f(f(n))+1$.
-求 $f(240)$.
+$N_{+}$ 可以划分成两个集合:<br>
+<p>$f(N_{+})=\{f(n)|n\in N_{+}\}$ and $g(N_{+})=\{g(n)|n\in N_{+}\}$;</p><br>
+且 $f(n)$ 严格单增, $g(n)=f(f(n))+1$.<br>
+求 $f(240)$.<br>
 
 ```python
 N = 400
@@ -40,6 +40,4 @@ while i<=N:
 print(x.index("f240"))
 ```
 output:
-```python
-388
-```
+**388**

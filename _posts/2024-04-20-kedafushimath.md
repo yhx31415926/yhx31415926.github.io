@@ -27,7 +27,7 @@ tags:
 (2)求证:在 $R^{n}$ 上，$d_{1},d_{2},d_{\infty}$ 互为等价距离.  
 
 ### 二、<br>
-<p>$A=\{1,2,...,q\},X=A^{n}.$ 在$ X $上定义$Hamming$距离 $d_{H} ;x\in X;r\in Z,0\le r\le n$<br>
+<p>$A=\{1,2,...,q\},X=A^{n}.$ 在$ X $上定义$Hamming$距离 $d_{H} ;x\in X;r\in Z,0\le r\le n$</p><br>
 (1)求证：以$x$为球心，$r$为半径的闭球内含$X$的元素个数为<br>
 <p>\begin{align}
   \sum_{i=0}^{r}\binom{n}{i} (q-1)^{i}
