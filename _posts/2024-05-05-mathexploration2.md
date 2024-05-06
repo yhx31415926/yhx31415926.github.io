@@ -16,12 +16,13 @@ tags:
 ![](https://yhx1415926.github.io/quote_img/mathexploration-2/1.png)
 
 $N_{+}$ 可以划分成两个集合:<br>
-<p>$f(N_{+})=\{f(n)|n\in N_{+}\}$  and  $g(N_{+})=\{g(n)|n\in N_{+}\}$;</p><br>
+<p>$f(N_{+})=\{f(n)|n\in N_{+}\}$  and  $g(N_{+})=\{g(n)|n\in N_{+}\}$;</p>
 且 $f(n)$ 严格单增, $g(n)=f(f(n))+1$.<br>
 求 $f(240)$.<br>
 
 ### Solution
 以下方法的缺点在于 无法判定 N 的最佳初值
+(当然也可以直接 try-except:x.append(""))
 
 ```python
 N = 400
@@ -40,8 +41,8 @@ while i<=N:
         x[i] = f"f{n}"
         n += 1
         i += 1
-    k = x.index(f"f{m}")
-    i = x.index(f"f{k}")+1
+    #k = x.index(f"f{m}")
+    #i = x.index(f"f{k}")+1
     x[i] = f"g{m}"
     m += 1
     i += 1
@@ -93,11 +94,13 @@ int main(){
     for(int i = 0;i < N;i++)
         f[i] = g[i] = 0;
     f[n1++] = 1;
+
     for(int i = 2;i <= k && n1 < N && n2 < N;i++)
         if(n1 == f[n2])
             g[n2++] = i;
         else
             f[n1++] = i;
+
     printf("%4s: %4s, %4s\n","n","f(n)","g(n)");
     for(int i = 0;i < N;i++)
         printf("%4d: %4d, %4d\n",i + 1,f[i],g[i]);
