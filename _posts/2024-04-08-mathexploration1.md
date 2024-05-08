@@ -37,19 +37,25 @@ Four points are chosen at random on the surface of a sphere. What is the probabi
 #### Solution-1
 $Lemma:\ $此多边形的锐角顶点彼此相邻
 //如图所示，左文字，右图片
+
+https://yhx1415926.github.io/quote_img/mathexploration-1/2.png
+
+//如图所示，左文字，右图片
 <div align="center">
 <table rules="none">
 <tr>
 <td>
-<img src="https://yhx1415926.github.io/quote_img/mathexploration-1/2.png" style="zoom:50%"/>
+<p>文字</p>
+<p>文字</p>
+<p>文字</p>
 </td>
 <td>
-<p>asdkjhkqjwhkjndskjakdjshakjdhkjashdkjhaskjdhkjahdjhakjsdhkjahdsjhakjdshsakjdhkjahdskjhsakjdhkjahds</p>
-<p>asmd</p>
-<p>dlkfjdskxknxlkcvsdf,smnf,mwn</p>
+<img src="https://yhx1415926.github.io/quote_img/mathexploration-1/2.png" style="zoom:50%"/>
 </td>
 </tr>
 </table>    
 </div>
 
+
 #### Solution-2
+
