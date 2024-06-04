@@ -1,11 +1,11 @@
 # Site settings
-title: Citrus Blog
-SEOTitle: Citrus Blog
+title: HaoXuan Blog
+SEOTitle: Haoxuan Blog
 header-img: img/home-bg.jpg
 email: yao1415926@outlook.com
 description: "Cool Blog"
 keyword: ""
-url: "https://yhx1415926.github.io" # your host, for absolute URL
+url: "https://yhx31415926.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "端一碗水 出门去捉一碗月亮"
-sidebar-avatar: https://yhx1415926.github.io/img/avatar-hux-home.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://yhx31415926.github.io/img/avatar-hux-home.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,5 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "yhx31415926", href: "http://yhx31415926.github.io/" },
     { title: "yhx1415926", href: "http://yhx1415926.github.io/" },
   ]
